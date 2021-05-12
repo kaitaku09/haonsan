@@ -1,0 +1,44 @@
+body {
+  padding:50px 50px;
+}
+
+.kai {
+  width:200px;
+  height:200px;
+}
+
+.haon {
+  width:200px;
+  height:200px;
+}
+
+.text1 {
+  color:blueviolet;
+}
+
+.text2 {
+  color: red;
+}
+
+section {
+  padding:100px 80px;
+  background-size:cover;
+  height:500px;
+  width:410px;
+}
+
+h2 {
+  color:white;
+}
+
+.icon {
+  float:left;
+  margin-bottom:30px;
+  padding-top:0;
+  border:2px solid skyblue;
+  background-color: palegreen;
+}
+
+p {
+  color:brown;
+}
